@@ -14,25 +14,25 @@ All of you will be working on the following projects:
 Projects inside this repo.
 They are not really language (java/python) dependent.
 
-- [ ] ZipCode-GettingStarted lets make sure there are, well, you know, things
-- [ ] MyFirstFork git yourself goin'
-- [ ] Shell-Terminal the magic spell machine
-- [ ] NanoEditor believe it or not, it's all about the TEXT
-- [ ] DreamHouse show me your domestic aspirations
-- [ ] Markdown101 - writing in the _lingua programmica_ 
+- [x] ZipCode-GettingStarted lets make sure there are, well, you know, things
+- [x] MyFirstFork git yourself goin'
+- [x] Shell-Terminal the magic spell machine
+- [x] NanoEditor believe it or not, it's all about the TEXT
+- [x] DreamHouse show me your domestic aspirations
+- [x] Markdown101 - writing in the _lingua programmica_ 
 
 Other repos that also need to be done.
 These are both Java and Python projects. You will do one or the other.
 
-- [ ] [DanDoBetters](https://github.com/ZCW-Summer25/DanDoBetterDrills) strings and functions and oh my
-- [ ] [UsingReturn1](https://github.com/ZCW-Summer25/UsingReturn1) wait return vs. print/println
-- [ ] [ParenSymmetry](https://github.com/ZCW-Summer25/ParenSymmetry) doing some text processing
-- [ ] [CodeInterpreters](https://github.com/ZCW-Summer25/CodeInterpreters.git) objects and interpreters
+- [x] [DanDoBetters](https://github.com/ZCW-Summer25/DanDoBetterDrills) strings and functions and oh my
+- [x] [UsingReturn1](https://github.com/ZCW-Summer25/UsingReturn1) wait return vs. print/println
+- [x] [ParenSymmetry](https://github.com/ZCW-Summer25/ParenSymmetry) doing some text processing
+- [x] [CodeInterpreters](https://github.com/ZCW-Summer25/CodeInterpreters.git) objects and interpreters
 
 ### Weekend Projects
 
 - [ScientificCalculator](https://github.com/ZCW-Summer25/ScientificCalculator)
-- [Python.ScientificCalculator](https://github.com/ZCW-Summer25/Python.ScientificCalculator)
+- [x] [Python.ScientificCalculator](https://github.com/ZCW-Summer25/Python.ScientificCalculator)
 
 ## Blaze: zipcode's blogging engine
 
